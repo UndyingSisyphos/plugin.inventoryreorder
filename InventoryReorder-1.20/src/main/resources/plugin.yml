@@ -1,0 +1,7 @@
+name: InventoryReorder
+version: '${project.version}'
+main: sisyphos.inventoryreorder.IR
+api-version: 1.20
+authors: [ Sisyphos ]
+description: Spigot plugin to sort inventories
+website: https://github.com/DuoClip/minecraft-plugins/tree/main
